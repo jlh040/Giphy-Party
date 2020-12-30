@@ -1,2 +1,3 @@
 - #### This exercise utilizes AJAX/axios, Bootstrap, and also DOM Manipulation.
   - (Springboard exercise 14.3.13)
+  - A link to the exercise is provided [here.](https://jlh040.github.io/Giphy-Party/)
