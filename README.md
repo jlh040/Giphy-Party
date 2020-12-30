@@ -1,0 +1,2 @@
+- #### This exercise utilizes AJAX/axios, Bootstrap, and also DOM Manipulation.
+  - (Springboard exercise 14.3.13)
